@@ -10,35 +10,26 @@ using System.Windows.Forms;
 
 namespace AraçKullanımları
 {
-    public partial class Form1 : Form
+    public partial class Form2 : Form
     {
-        public Form1()
+        public Form2()
         {
             InitializeComponent();
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hello World");
+            comboBox1.Items.Add("Antalya");
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            label2.Text = "Enes";
+            comboBox1.Items.Add(textBox1.Text);
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
-            label8.Text = "Enes";
-            label7.Text = "Aksu";
-            label6.Text = "Öğrenci";
-
-
-        }
-
-        private void button4_Click(object sender, EventArgs e)
-        {
-            label9.Text = textBox1.Text;
+            listBox1.Items.Add(textBox2.Text);
         }
     }
 }
