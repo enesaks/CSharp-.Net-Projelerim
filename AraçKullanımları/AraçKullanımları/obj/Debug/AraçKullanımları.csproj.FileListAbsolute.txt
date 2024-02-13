@@ -1,0 +1,10 @@
+C:\Users\emin2\OneDrive\Masaüstü\Enes\github\CSharpProjelerim\AraçKullanımları\AraçKullanımları\bin\Debug\AraçKullanımları.exe.config
+C:\Users\emin2\OneDrive\Masaüstü\Enes\github\CSharpProjelerim\AraçKullanımları\AraçKullanımları\bin\Debug\AraçKullanımları.exe
+C:\Users\emin2\OneDrive\Masaüstü\Enes\github\CSharpProjelerim\AraçKullanımları\AraçKullanımları\bin\Debug\AraçKullanımları.pdb
+C:\Users\emin2\OneDrive\Masaüstü\Enes\github\CSharpProjelerim\AraçKullanımları\AraçKullanımları\obj\Debug\AraçKullanımları.csproj.AssemblyReference.cache
+C:\Users\emin2\OneDrive\Masaüstü\Enes\github\CSharpProjelerim\AraçKullanımları\AraçKullanımları\obj\Debug\AraçKullanımları.Form1.resources
+C:\Users\emin2\OneDrive\Masaüstü\Enes\github\CSharpProjelerim\AraçKullanımları\AraçKullanımları\obj\Debug\AraçKullanımları.Properties.Resources.resources
+C:\Users\emin2\OneDrive\Masaüstü\Enes\github\CSharpProjelerim\AraçKullanımları\AraçKullanımları\obj\Debug\AraçKullanımları.csproj.GenerateResource.cache
+C:\Users\emin2\OneDrive\Masaüstü\Enes\github\CSharpProjelerim\AraçKullanımları\AraçKullanımları\obj\Debug\AraçKullanımları.csproj.CoreCompileInputs.cache
+C:\Users\emin2\OneDrive\Masaüstü\Enes\github\CSharpProjelerim\AraçKullanımları\AraçKullanımları\obj\Debug\AraçKullanımları.exe
+C:\Users\emin2\OneDrive\Masaüstü\Enes\github\CSharpProjelerim\AraçKullanımları\AraçKullanımları\obj\Debug\AraçKullanımları.pdb
