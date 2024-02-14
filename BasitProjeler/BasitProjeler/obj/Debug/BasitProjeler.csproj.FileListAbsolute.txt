@@ -1,0 +1,11 @@
+C:\Users\emin2\OneDrive\Masaüstü\Enes\github\CSharpProjelerim\BasitProjeler\BasitProjeler\bin\Debug\BasitProjeler.exe.config
+C:\Users\emin2\OneDrive\Masaüstü\Enes\github\CSharpProjelerim\BasitProjeler\BasitProjeler\bin\Debug\BasitProjeler.exe
+C:\Users\emin2\OneDrive\Masaüstü\Enes\github\CSharpProjelerim\BasitProjeler\BasitProjeler\bin\Debug\BasitProjeler.pdb
+C:\Users\emin2\OneDrive\Masaüstü\Enes\github\CSharpProjelerim\BasitProjeler\BasitProjeler\obj\Debug\BasitProjeler.csproj.AssemblyReference.cache
+C:\Users\emin2\OneDrive\Masaüstü\Enes\github\CSharpProjelerim\BasitProjeler\BasitProjeler\obj\Debug\BasitProjeler.BasitHesap.resources
+C:\Users\emin2\OneDrive\Masaüstü\Enes\github\CSharpProjelerim\BasitProjeler\BasitProjeler\obj\Debug\BasitProjeler.Properties.Resources.resources
+C:\Users\emin2\OneDrive\Masaüstü\Enes\github\CSharpProjelerim\BasitProjeler\BasitProjeler\obj\Debug\BasitProjeler.csproj.GenerateResource.cache
+C:\Users\emin2\OneDrive\Masaüstü\Enes\github\CSharpProjelerim\BasitProjeler\BasitProjeler\obj\Debug\BasitProjeler.csproj.CoreCompileInputs.cache
+C:\Users\emin2\OneDrive\Masaüstü\Enes\github\CSharpProjelerim\BasitProjeler\BasitProjeler\obj\Debug\BasitProjeler.exe
+C:\Users\emin2\OneDrive\Masaüstü\Enes\github\CSharpProjelerim\BasitProjeler\BasitProjeler\obj\Debug\BasitProjeler.pdb
+C:\Users\emin2\OneDrive\Masaüstü\Enes\github\CSharpProjelerim\BasitProjeler\BasitProjeler\obj\Debug\BasitProjeler.SınavNotları.resources
