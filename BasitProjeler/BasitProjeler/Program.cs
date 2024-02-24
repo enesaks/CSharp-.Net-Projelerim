@@ -16,7 +16,7 @@ namespace BasitProjeler
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new SınavNotları());
+            Application.Run(new ProgressBar());
         }
     }
 }
