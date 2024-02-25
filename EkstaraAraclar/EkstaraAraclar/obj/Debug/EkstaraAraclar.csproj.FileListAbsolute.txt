@@ -1,0 +1,12 @@
+C:\Users\enesc\OneDrive\Belgeler\GitHub\CSharpProjelerim\EkstaraAraclar\EkstaraAraclar\bin\Debug\EkstaraAraclar.exe.config
+C:\Users\enesc\OneDrive\Belgeler\GitHub\CSharpProjelerim\EkstaraAraclar\EkstaraAraclar\bin\Debug\EkstaraAraclar.exe
+C:\Users\enesc\OneDrive\Belgeler\GitHub\CSharpProjelerim\EkstaraAraclar\EkstaraAraclar\bin\Debug\EkstaraAraclar.pdb
+C:\Users\enesc\OneDrive\Belgeler\GitHub\CSharpProjelerim\EkstaraAraclar\EkstaraAraclar\obj\Debug\EkstaraAraclar.csproj.AssemblyReference.cache
+C:\Users\enesc\OneDrive\Belgeler\GitHub\CSharpProjelerim\EkstaraAraclar\EkstaraAraclar\obj\Debug\EkstaraAraclar.Properties.Resources.resources
+C:\Users\enesc\OneDrive\Belgeler\GitHub\CSharpProjelerim\EkstaraAraclar\EkstaraAraclar\obj\Debug\EkstaraAraclar.csproj.GenerateResource.cache
+C:\Users\enesc\OneDrive\Belgeler\GitHub\CSharpProjelerim\EkstaraAraclar\EkstaraAraclar\obj\Debug\EkstaraAraclar.csproj.CoreCompileInputs.cache
+C:\Users\enesc\OneDrive\Belgeler\GitHub\CSharpProjelerim\EkstaraAraclar\EkstaraAraclar\obj\Debug\EkstaraAraclar.exe
+C:\Users\enesc\OneDrive\Belgeler\GitHub\CSharpProjelerim\EkstaraAraclar\EkstaraAraclar\obj\Debug\EkstaraAraclar.pdb
+C:\Users\enesc\OneDrive\Belgeler\GitHub\CSharpProjelerim\EkstaraAraclar\EkstaraAraclar\obj\Debug\EkstaraAraclar.MenuStrikKulanimi.resources
+C:\Users\enesc\OneDrive\Belgeler\GitHub\CSharpProjelerim\EkstaraAraclar\EkstaraAraclar\obj\Debug\EkstaraAraclar.ChartGrafik.resources
+C:\Users\enesc\OneDrive\Belgeler\GitHub\CSharpProjelerim\EkstaraAraclar\EkstaraAraclar\obj\Debug\EkstaraAraclar.ContextMenuStripKulanimi.resources

@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\enesc\\OneDrive\\Belgeler\\GitHub\\CSharpProjelerim\\EkstaraAraclar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A8A8F59-DDC4-48EE-B4F2-A497F08AAB95}|EkstaraAraclar\\EkstaraAraclar.csproj|c:\\users\\enesc\\onedrive\\belgeler\\github\\csharpprojelerim\\ekstaraaraclar\\ekstaraaraclar\\contextmenustripkulanimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A8A8F59-DDC4-48EE-B4F2-A497F08AAB95}|EkstaraAraclar\\EkstaraAraclar.csproj|solutionrelative:ekstaraaraclar\\contextmenustripkulanimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A8A8F59-DDC4-48EE-B4F2-A497F08AAB95}|EkstaraAraclar\\EkstaraAraclar.csproj|c:\\users\\enesc\\onedrive\\belgeler\\github\\csharpprojelerim\\ekstaraaraclar\\ekstaraaraclar\\contextmenustripkulanimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1A8A8F59-DDC4-48EE-B4F2-A497F08AAB95}|EkstaraAraclar\\EkstaraAraclar.csproj|solutionrelative:ekstaraaraclar\\contextmenustripkulanimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A8A8F59-DDC4-48EE-B4F2-A497F08AAB95}|EkstaraAraclar\\EkstaraAraclar.csproj|c:\\users\\enesc\\onedrive\\belgeler\\github\\csharpprojelerim\\ekstaraaraclar\\ekstaraaraclar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A8A8F59-DDC4-48EE-B4F2-A497F08AAB95}|EkstaraAraclar\\EkstaraAraclar.csproj|solutionrelative:ekstaraaraclar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContextMenuStripKulanimi.cs",
+              "DocumentMoniker": "C:\\Users\\enesc\\OneDrive\\Belgeler\\GitHub\\CSharpProjelerim\\EkstaraAraclar\\EkstaraAraclar\\ContextMenuStripKulanimi.cs",
+              "RelativeDocumentMoniker": "EkstaraAraclar\\ContextMenuStripKulanimi.cs",
+              "ToolTip": "C:\\Users\\enesc\\OneDrive\\Belgeler\\GitHub\\CSharpProjelerim\\EkstaraAraclar\\EkstaraAraclar\\ContextMenuStripKulanimi.cs",
+              "RelativeToolTip": "EkstaraAraclar\\ContextMenuStripKulanimi.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAADwvyQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T19:14:06.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContextMenuStripKulanimi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\enesc\\OneDrive\\Belgeler\\GitHub\\CSharpProjelerim\\EkstaraAraclar\\EkstaraAraclar\\ContextMenuStripKulanimi.cs",
+              "RelativeDocumentMoniker": "EkstaraAraclar\\ContextMenuStripKulanimi.cs",
+              "ToolTip": "C:\\Users\\enesc\\OneDrive\\Belgeler\\GitHub\\CSharpProjelerim\\EkstaraAraclar\\EkstaraAraclar\\ContextMenuStripKulanimi.cs [Design]",
+              "RelativeToolTip": "EkstaraAraclar\\ContextMenuStripKulanimi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T19:12:30.331Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\enesc\\OneDrive\\Belgeler\\GitHub\\CSharpProjelerim\\EkstaraAraclar\\EkstaraAraclar\\Program.cs",
+              "RelativeDocumentMoniker": "EkstaraAraclar\\Program.cs",
+              "ToolTip": "C:\\Users\\enesc\\OneDrive\\Belgeler\\GitHub\\CSharpProjelerim\\EkstaraAraclar\\EkstaraAraclar\\Program.cs",
+              "RelativeToolTip": "EkstaraAraclar\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T19:02:57.457Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
