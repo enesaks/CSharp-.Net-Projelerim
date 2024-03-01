@@ -1,0 +1,15 @@
+C:\Users\enesc\OneDrive\Belgeler\GitHub\CSharpProjelerim\EkstraYapilar\EkstraYapilar\bin\Debug\EkstraYapilar.exe.config
+C:\Users\enesc\OneDrive\Belgeler\GitHub\CSharpProjelerim\EkstraYapilar\EkstraYapilar\bin\Debug\EkstraYapilar.exe
+C:\Users\enesc\OneDrive\Belgeler\GitHub\CSharpProjelerim\EkstraYapilar\EkstraYapilar\bin\Debug\EkstraYapilar.pdb
+C:\Users\enesc\OneDrive\Belgeler\GitHub\CSharpProjelerim\EkstraYapilar\EkstraYapilar\obj\Debug\EkstraYapilar.csproj.AssemblyReference.cache
+C:\Users\enesc\OneDrive\Belgeler\GitHub\CSharpProjelerim\EkstraYapilar\EkstraYapilar\obj\Debug\EkstraYapilar.Form1.resources
+C:\Users\enesc\OneDrive\Belgeler\GitHub\CSharpProjelerim\EkstraYapilar\EkstraYapilar\obj\Debug\EkstraYapilar.Properties.Resources.resources
+C:\Users\enesc\OneDrive\Belgeler\GitHub\CSharpProjelerim\EkstraYapilar\EkstraYapilar\obj\Debug\EkstraYapilar.RandomKomutu.resources
+C:\Users\enesc\OneDrive\Belgeler\GitHub\CSharpProjelerim\EkstraYapilar\EkstraYapilar\obj\Debug\EkstraYapilar.csproj.GenerateResource.cache
+C:\Users\enesc\OneDrive\Belgeler\GitHub\CSharpProjelerim\EkstraYapilar\EkstraYapilar\obj\Debug\EkstraYapilar.csproj.CoreCompileInputs.cache
+C:\Users\enesc\OneDrive\Belgeler\GitHub\CSharpProjelerim\EkstraYapilar\EkstraYapilar\obj\Debug\EkstraYapilar.exe
+C:\Users\enesc\OneDrive\Belgeler\GitHub\CSharpProjelerim\EkstraYapilar\EkstraYapilar\obj\Debug\EkstraYapilar.pdb
+C:\Users\enesc\OneDrive\Belgeler\GitHub\CSharpProjelerim\EkstraYapilar\EkstraYapilar\obj\Debug\EkstraYapilar.CaptchaOluşturma.resources
+C:\Users\enesc\OneDrive\Belgeler\GitHub\CSharpProjelerim\EkstraYapilar\EkstraYapilar\obj\Debug\EkstraYapilar.FormlarArasiVeriTasisma1.resources
+C:\Users\enesc\OneDrive\Belgeler\GitHub\CSharpProjelerim\EkstraYapilar\EkstraYapilar\obj\Debug\EkstraYapilar.FormlarArasiVeriTasisma2.resources
+C:\Users\enesc\OneDrive\Belgeler\GitHub\CSharpProjelerim\EkstraYapilar\EkstraYapilar\obj\Debug\EkstraYapilar.EnumYapisi.resources
