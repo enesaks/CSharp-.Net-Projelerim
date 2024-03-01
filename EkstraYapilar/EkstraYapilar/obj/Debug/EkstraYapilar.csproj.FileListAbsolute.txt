@@ -13,3 +13,4 @@ C:\Users\enesc\OneDrive\Belgeler\GitHub\CSharpProjelerim\EkstraYapilar\EkstraYap
 C:\Users\enesc\OneDrive\Belgeler\GitHub\CSharpProjelerim\EkstraYapilar\EkstraYapilar\obj\Debug\EkstraYapilar.FormlarArasiVeriTasisma1.resources
 C:\Users\enesc\OneDrive\Belgeler\GitHub\CSharpProjelerim\EkstraYapilar\EkstraYapilar\obj\Debug\EkstraYapilar.FormlarArasiVeriTasisma2.resources
 C:\Users\enesc\OneDrive\Belgeler\GitHub\CSharpProjelerim\EkstraYapilar\EkstraYapilar\obj\Debug\EkstraYapilar.EnumYapisi.resources
+C:\Users\enesc\OneDrive\Belgeler\GitHub\CSharpProjelerim\EkstraYapilar\EkstraYapilar\obj\Debug\EkstraYapilar.DinamikAraclar.resources

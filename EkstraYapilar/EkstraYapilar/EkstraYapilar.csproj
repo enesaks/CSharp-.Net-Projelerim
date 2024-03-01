@@ -52,6 +52,12 @@
     <Compile Include="CaptchaOluşturma.Designer.cs">
       <DependentUpon>CaptchaOluşturma.cs</DependentUpon>
     </Compile>
+    <Compile Include="DinamikAraclar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DinamikAraclar.Designer.cs">
+      <DependentUpon>DinamikAraclar.cs</DependentUpon>
+    </Compile>
     <Compile Include="EnumYapisi.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -86,6 +92,9 @@
     </Compile>
     <EmbeddedResource Include="CaptchaOluşturma.resx">
       <DependentUpon>CaptchaOluşturma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DinamikAraclar.resx">
+      <DependentUpon>DinamikAraclar.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="EnumYapisi.resx">
       <DependentUpon>EnumYapisi.cs</DependentUpon>

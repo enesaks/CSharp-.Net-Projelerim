@@ -16,7 +16,7 @@ namespace EkstraYapilar
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new EnumYapisi());
+            Application.Run(new DinamikAraclar());
         }
     }
 }

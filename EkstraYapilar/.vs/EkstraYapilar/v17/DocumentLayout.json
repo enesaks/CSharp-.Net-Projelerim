@@ -3,32 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\enesc\\OneDrive\\Belgeler\\GitHub\\CSharpProjelerim\\EkstraYapilar\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1DE8404D-E23B-4EC4-A2AD-1590AAFD58EE}|EkstraYapilar\\EkstraYapilar.csproj|c:\\users\\enesc\\onedrive\\belgeler\\github\\csharpprojelerim\\ekstrayapilar\\ekstrayapilar\\enumyapisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1DE8404D-E23B-4EC4-A2AD-1590AAFD58EE}|EkstraYapilar\\EkstraYapilar.csproj|solutionrelative:ekstrayapilar\\enumyapisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1DE8404D-E23B-4EC4-A2AD-1590AAFD58EE}|EkstraYapilar\\EkstraYapilar.csproj|c:\\users\\enesc\\onedrive\\belgeler\\github\\csharpprojelerim\\ekstrayapilar\\ekstrayapilar\\dinamikaraclar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DE8404D-E23B-4EC4-A2AD-1590AAFD58EE}|EkstraYapilar\\EkstraYapilar.csproj|solutionrelative:ekstrayapilar\\dinamikaraclar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1DE8404D-E23B-4EC4-A2AD-1590AAFD58EE}|EkstraYapilar\\EkstraYapilar.csproj|c:\\users\\enesc\\onedrive\\belgeler\\github\\csharpprojelerim\\ekstrayapilar\\ekstrayapilar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1DE8404D-E23B-4EC4-A2AD-1590AAFD58EE}|EkstraYapilar\\EkstraYapilar.csproj|c:\\users\\enesc\\onedrive\\belgeler\\github\\csharpprojelerim\\ekstrayapilar\\ekstrayapilar\\dinamikaraclar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1DE8404D-E23B-4EC4-A2AD-1590AAFD58EE}|EkstraYapilar\\EkstraYapilar.csproj|solutionrelative:ekstrayapilar\\dinamikaraclar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DE8404D-E23B-4EC4-A2AD-1590AAFD58EE}|EkstraYapilar\\EkstraYapilar.csproj|C:\\Users\\enesc\\OneDrive\\Belgeler\\GitHub\\CSharpProjelerim\\EkstraYapilar\\ekstrayapilar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1DE8404D-E23B-4EC4-A2AD-1590AAFD58EE}|EkstraYapilar\\EkstraYapilar.csproj|solutionrelative:ekstrayapilar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1DE8404D-E23B-4EC4-A2AD-1590AAFD58EE}|EkstraYapilar\\EkstraYapilar.csproj|c:\\users\\enesc\\onedrive\\belgeler\\github\\csharpprojelerim\\ekstrayapilar\\ekstrayapilar\\enumyapisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1DE8404D-E23B-4EC4-A2AD-1590AAFD58EE}|EkstraYapilar\\EkstraYapilar.csproj|solutionrelative:ekstrayapilar\\enumyapisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1DE8404D-E23B-4EC4-A2AD-1590AAFD58EE}|EkstraYapilar\\EkstraYapilar.csproj|c:\\users\\enesc\\onedrive\\belgeler\\github\\csharpprojelerim\\ekstrayapilar\\ekstrayapilar\\formlararasiveritasisma1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1DE8404D-E23B-4EC4-A2AD-1590AAFD58EE}|EkstraYapilar\\EkstraYapilar.csproj|solutionrelative:ekstrayapilar\\formlararasiveritasisma1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1DE8404D-E23B-4EC4-A2AD-1590AAFD58EE}|EkstraYapilar\\EkstraYapilar.csproj|c:\\users\\enesc\\onedrive\\belgeler\\github\\csharpprojelerim\\ekstrayapilar\\ekstrayapilar\\formlararasiveritasisma2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1DE8404D-E23B-4EC4-A2AD-1590AAFD58EE}|EkstraYapilar\\EkstraYapilar.csproj|solutionrelative:ekstrayapilar\\formlararasiveritasisma2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1DE8404D-E23B-4EC4-A2AD-1590AAFD58EE}|EkstraYapilar\\EkstraYapilar.csproj|c:\\users\\enesc\\onedrive\\belgeler\\github\\csharpprojelerim\\ekstrayapilar\\ekstrayapilar\\formlararasiveritasisma2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1DE8404D-E23B-4EC4-A2AD-1590AAFD58EE}|EkstraYapilar\\EkstraYapilar.csproj|solutionrelative:ekstrayapilar\\formlararasiveritasisma2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1DE8404D-E23B-4EC4-A2AD-1590AAFD58EE}|EkstraYapilar\\EkstraYapilar.csproj|c:\\users\\enesc\\onedrive\\belgeler\\github\\csharpprojelerim\\ekstrayapilar\\ekstrayapilar\\formlararasiveritasisma1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1DE8404D-E23B-4EC4-A2AD-1590AAFD58EE}|EkstraYapilar\\EkstraYapilar.csproj|solutionrelative:ekstrayapilar\\formlararasiveritasisma1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,90 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "EnumYapisi.cs",
-              "DocumentMoniker": "C:\\Users\\enesc\\OneDrive\\Belgeler\\GitHub\\CSharpProjelerim\\EkstraYapilar\\EkstraYapilar\\EnumYapisi.cs",
-              "RelativeDocumentMoniker": "EkstraYapilar\\EnumYapisi.cs",
-              "ToolTip": "C:\\Users\\enesc\\OneDrive\\Belgeler\\GitHub\\CSharpProjelerim\\EkstraYapilar\\EkstraYapilar\\EnumYapisi.cs",
-              "RelativeToolTip": "EkstraYapilar\\EnumYapisi.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Title": "DinamikAraclar.cs",
+              "DocumentMoniker": "C:\\Users\\enesc\\OneDrive\\Belgeler\\GitHub\\CSharpProjelerim\\EkstraYapilar\\EkstraYapilar\\DinamikAraclar.cs",
+              "RelativeDocumentMoniker": "EkstraYapilar\\DinamikAraclar.cs",
+              "ToolTip": "C:\\Users\\enesc\\OneDrive\\Belgeler\\GitHub\\CSharpProjelerim\\EkstraYapilar\\EkstraYapilar\\DinamikAraclar.cs",
+              "RelativeToolTip": "EkstraYapilar\\DinamikAraclar.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAUwBEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T08:18:54.844Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FormlarArasiVeriTasisma2.cs",
-              "DocumentMoniker": "C:\\Users\\enesc\\OneDrive\\Belgeler\\GitHub\\CSharpProjelerim\\EkstraYapilar\\EkstraYapilar\\FormlarArasiVeriTasisma2.cs",
-              "RelativeDocumentMoniker": "EkstraYapilar\\FormlarArasiVeriTasisma2.cs",
-              "ToolTip": "C:\\Users\\enesc\\OneDrive\\Belgeler\\GitHub\\CSharpProjelerim\\EkstraYapilar\\EkstraYapilar\\FormlarArasiVeriTasisma2.cs",
-              "RelativeToolTip": "EkstraYapilar\\FormlarArasiVeriTasisma2.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAUwBUAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T08:12:34.343Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FormlarArasiVeriTasisma1.cs",
-              "DocumentMoniker": "C:\\Users\\enesc\\OneDrive\\Belgeler\\GitHub\\CSharpProjelerim\\EkstraYapilar\\EkstraYapilar\\FormlarArasiVeriTasisma1.cs",
-              "RelativeDocumentMoniker": "EkstraYapilar\\FormlarArasiVeriTasisma1.cs",
-              "ToolTip": "C:\\Users\\enesc\\OneDrive\\Belgeler\\GitHub\\CSharpProjelerim\\EkstraYapilar\\EkstraYapilar\\FormlarArasiVeriTasisma1.cs",
-              "RelativeToolTip": "EkstraYapilar\\FormlarArasiVeriTasisma1.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAUwBYAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T08:10:44.992Z",
+              "WhenOpened": "2024-03-01T19:37:48.729Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "DinamikAraclar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\enesc\\OneDrive\\Belgeler\\GitHub\\CSharpProjelerim\\EkstraYapilar\\EkstraYapilar\\DinamikAraclar.cs",
+              "RelativeDocumentMoniker": "EkstraYapilar\\DinamikAraclar.cs",
+              "ToolTip": "C:\\Users\\enesc\\OneDrive\\Belgeler\\GitHub\\CSharpProjelerim\\EkstraYapilar\\EkstraYapilar\\DinamikAraclar.cs [Design]",
+              "RelativeToolTip": "EkstraYapilar\\DinamikAraclar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T19:37:26.244Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\enesc\\OneDrive\\Belgeler\\GitHub\\CSharpProjelerim\\EkstraYapilar\\EkstraYapilar\\Program.cs",
               "RelativeDocumentMoniker": "EkstraYapilar\\Program.cs",
               "ToolTip": "C:\\Users\\enesc\\OneDrive\\Belgeler\\GitHub\\CSharpProjelerim\\EkstraYapilar\\EkstraYapilar\\Program.cs",
               "RelativeToolTip": "EkstraYapilar\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAqAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-01T07:57:09.895Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EnumYapisi.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\enesc\\OneDrive\\Belgeler\\GitHub\\CSharpProjelerim\\EkstraYapilar\\EkstraYapilar\\EnumYapisi.cs",
-              "RelativeDocumentMoniker": "EkstraYapilar\\EnumYapisi.cs",
-              "ToolTip": "C:\\Users\\enesc\\OneDrive\\Belgeler\\GitHub\\CSharpProjelerim\\EkstraYapilar\\EkstraYapilar\\EnumYapisi.cs [Design]",
-              "RelativeToolTip": "EkstraYapilar\\EnumYapisi.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T08:18:09.535Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FormlarArasiVeriTasisma2.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\enesc\\OneDrive\\Belgeler\\GitHub\\CSharpProjelerim\\EkstraYapilar\\EkstraYapilar\\FormlarArasiVeriTasisma2.cs",
-              "RelativeDocumentMoniker": "EkstraYapilar\\FormlarArasiVeriTasisma2.cs",
-              "ToolTip": "C:\\Users\\enesc\\OneDrive\\Belgeler\\GitHub\\CSharpProjelerim\\EkstraYapilar\\EkstraYapilar\\FormlarArasiVeriTasisma2.cs [Design]",
-              "RelativeToolTip": "EkstraYapilar\\FormlarArasiVeriTasisma2.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T08:09:26.832Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "FormlarArasiVeriTasisma1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\enesc\\OneDrive\\Belgeler\\GitHub\\CSharpProjelerim\\EkstraYapilar\\EkstraYapilar\\FormlarArasiVeriTasisma1.cs",
-              "RelativeDocumentMoniker": "EkstraYapilar\\FormlarArasiVeriTasisma1.cs",
-              "ToolTip": "C:\\Users\\enesc\\OneDrive\\Belgeler\\GitHub\\CSharpProjelerim\\EkstraYapilar\\EkstraYapilar\\FormlarArasiVeriTasisma1.cs [Design]",
-              "RelativeToolTip": "EkstraYapilar\\FormlarArasiVeriTasisma1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T08:09:17.017Z",
-              "EditorCaption": " [Design]"
             }
           ]
         }
