@@ -1,0 +1,13 @@
+C:\Users\enesc\OneDrive\Belgeler\GitHub\CSharpProjelerim\DosyaIslemleri\DosyaIslemleri\bin\Debug\DosyaIslemleri.exe.config
+C:\Users\enesc\OneDrive\Belgeler\GitHub\CSharpProjelerim\DosyaIslemleri\DosyaIslemleri\bin\Debug\DosyaIslemleri.exe
+C:\Users\enesc\OneDrive\Belgeler\GitHub\CSharpProjelerim\DosyaIslemleri\DosyaIslemleri\bin\Debug\DosyaIslemleri.pdb
+C:\Users\enesc\OneDrive\Belgeler\GitHub\CSharpProjelerim\DosyaIslemleri\DosyaIslemleri\obj\Debug\DosyaIslemleri.csproj.AssemblyReference.cache
+C:\Users\enesc\OneDrive\Belgeler\GitHub\CSharpProjelerim\DosyaIslemleri\DosyaIslemleri\obj\Debug\DosyaIslemleri.Form1.resources
+C:\Users\enesc\OneDrive\Belgeler\GitHub\CSharpProjelerim\DosyaIslemleri\DosyaIslemleri\obj\Debug\DosyaIslemleri.Properties.Resources.resources
+C:\Users\enesc\OneDrive\Belgeler\GitHub\CSharpProjelerim\DosyaIslemleri\DosyaIslemleri\obj\Debug\DosyaIslemleri.csproj.GenerateResource.cache
+C:\Users\enesc\OneDrive\Belgeler\GitHub\CSharpProjelerim\DosyaIslemleri\DosyaIslemleri\obj\Debug\DosyaIslemleri.csproj.CoreCompileInputs.cache
+C:\Users\enesc\OneDrive\Belgeler\GitHub\CSharpProjelerim\DosyaIslemleri\DosyaIslemleri\obj\Debug\DosyaIslemleri.exe
+C:\Users\enesc\OneDrive\Belgeler\GitHub\CSharpProjelerim\DosyaIslemleri\DosyaIslemleri\obj\Debug\DosyaIslemleri.pdb
+C:\Users\enesc\OneDrive\Belgeler\GitHub\CSharpProjelerim\DosyaIslemleri\DosyaIslemleri\obj\Debug\DosyaIslemleri.MetinBelgesi.resources
+C:\Users\enesc\OneDrive\Belgeler\GitHub\CSharpProjelerim\DosyaIslemleri\DosyaIslemleri\obj\Debug\DosyaIslemleri.MetinBelgesiOkuma.resources
+C:\Users\enesc\OneDrive\Belgeler\GitHub\CSharpProjelerim\DosyaIslemleri\DosyaIslemleri\obj\Debug\DosyaIslemleri.MetinBelgesineYazma.resources
