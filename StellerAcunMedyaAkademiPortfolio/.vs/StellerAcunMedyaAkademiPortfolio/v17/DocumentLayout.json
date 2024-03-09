@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\enesc\\OneDrive\\Belgeler\\GitHub\\CSharpProjelerim\\StellerAcunMedyaAkademiPortfolio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{702181E0-7642-41C3-80D6-2EB875DDD761}|StellerAcunMedyaAkademiPortfolio\\StellerAcunMedyaAkademiPortfolio.csproj|c:\\users\\enesc\\onedrive\\belgeler\\github\\csharpprojelerim\\stelleracunmedyaakademiportfolio\\stelleracunmedyaakademiportfolio\\views\\testimonial\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{702181E0-7642-41C3-80D6-2EB875DDD761}|StellerAcunMedyaAkademiPortfolio\\StellerAcunMedyaAkademiPortfolio.csproj|solutionrelative:stelleracunmedyaakademiportfolio\\views\\testimonial\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702181E0-7642-41C3-80D6-2EB875DDD761}|StellerAcunMedyaAkademiPortfolio\\StellerAcunMedyaAkademiPortfolio.csproj|c:\\users\\enesc\\onedrive\\belgeler\\github\\csharpprojelerim\\stelleracunmedyaakademiportfolio\\stelleracunmedyaakademiportfolio\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{702181E0-7642-41C3-80D6-2EB875DDD761}|StellerAcunMedyaAkademiPortfolio\\StellerAcunMedyaAkademiPortfolio.csproj|solutionrelative:stelleracunmedyaakademiportfolio\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702181E0-7642-41C3-80D6-2EB875DDD761}|StellerAcunMedyaAkademiPortfolio\\StellerAcunMedyaAkademiPortfolio.csproj|c:\\users\\enesc\\onedrive\\belgeler\\github\\csharpprojelerim\\stelleracunmedyaakademiportfolio\\stelleracunmedyaakademiportfolio\\views\\shared\\partialsidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{702181E0-7642-41C3-80D6-2EB875DDD761}|StellerAcunMedyaAkademiPortfolio\\StellerAcunMedyaAkademiPortfolio.csproj|solutionrelative:stelleracunmedyaakademiportfolio\\views\\shared\\partialsidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{702181E0-7642-41C3-80D6-2EB875DDD761}|StellerAcunMedyaAkademiPortfolio\\StellerAcunMedyaAkademiPortfolio.csproj|c:\\users\\enesc\\onedrive\\belgeler\\github\\csharpprojelerim\\stelleracunmedyaakademiportfolio\\stelleracunmedyaakademiportfolio\\views\\shared\\partialscript.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{702181E0-7642-41C3-80D6-2EB875DDD761}|StellerAcunMedyaAkademiPortfolio\\StellerAcunMedyaAkademiPortfolio.csproj|solutionrelative:stelleracunmedyaakademiportfolio\\views\\shared\\partialscript.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PartialSidebar.cshtml",
+              "DocumentMoniker": "C:\\Users\\enesc\\OneDrive\\Belgeler\\GitHub\\CSharpProjelerim\\StellerAcunMedyaAkademiPortfolio\\StellerAcunMedyaAkademiPortfolio\\Views\\Shared\\PartialSidebar.cshtml",
+              "RelativeDocumentMoniker": "StellerAcunMedyaAkademiPortfolio\\Views\\Shared\\PartialSidebar.cshtml",
+              "ToolTip": "C:\\Users\\enesc\\OneDrive\\Belgeler\\GitHub\\CSharpProjelerim\\StellerAcunMedyaAkademiPortfolio\\StellerAcunMedyaAkademiPortfolio\\Views\\Shared\\PartialSidebar.cshtml",
+              "RelativeToolTip": "StellerAcunMedyaAkademiPortfolio\\Views\\Shared\\PartialSidebar.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAC4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-04T18:09:36.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PartialScript.cshtml",
+              "DocumentMoniker": "C:\\Users\\enesc\\OneDrive\\Belgeler\\GitHub\\CSharpProjelerim\\StellerAcunMedyaAkademiPortfolio\\StellerAcunMedyaAkademiPortfolio\\Views\\Shared\\PartialScript.cshtml",
+              "RelativeDocumentMoniker": "StellerAcunMedyaAkademiPortfolio\\Views\\Shared\\PartialScript.cshtml",
+              "ToolTip": "C:\\Users\\enesc\\OneDrive\\Belgeler\\GitHub\\CSharpProjelerim\\StellerAcunMedyaAkademiPortfolio\\StellerAcunMedyaAkademiPortfolio\\Views\\Shared\\PartialScript.cshtml",
+              "RelativeToolTip": "StellerAcunMedyaAkademiPortfolio\\Views\\Shared\\PartialScript.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-04T18:04:30.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\enesc\\OneDrive\\Belgeler\\GitHub\\CSharpProjelerim\\StellerAcunMedyaAkademiPortfolio\\StellerAcunMedyaAkademiPortfolio\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "StellerAcunMedyaAkademiPortfolio\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\enesc\\OneDrive\\Belgeler\\GitHub\\CSharpProjelerim\\StellerAcunMedyaAkademiPortfolio\\StellerAcunMedyaAkademiPortfolio\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "StellerAcunMedyaAkademiPortfolio\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-04T17:24:33.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\enesc\\OneDrive\\Belgeler\\GitHub\\CSharpProjelerim\\StellerAcunMedyaAkademiPortfolio\\StellerAcunMedyaAkademiPortfolio\\Views\\Testimonial\\Index.cshtml",
+              "RelativeDocumentMoniker": "StellerAcunMedyaAkademiPortfolio\\Views\\Testimonial\\Index.cshtml",
+              "ToolTip": "C:\\Users\\enesc\\OneDrive\\Belgeler\\GitHub\\CSharpProjelerim\\StellerAcunMedyaAkademiPortfolio\\StellerAcunMedyaAkademiPortfolio\\Views\\Testimonial\\Index.cshtml",
+              "RelativeToolTip": "StellerAcunMedyaAkademiPortfolio\\Views\\Testimonial\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-04T17:35:24.129Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
