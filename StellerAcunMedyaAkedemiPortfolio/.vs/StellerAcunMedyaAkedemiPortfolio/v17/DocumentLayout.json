@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\enesc\\OneDrive\\Belgeler\\GitHub\\CSharpProjelerim\\StellerAcunMedyaAkedemiPortfolio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{42552B06-9DD4-4F3C-8F42-9F124D33091B}|StellerAcunMedyaAkedemiPortfolio\\StellerAcunMedyaAkedemiPortfolio.csproj|c:\\users\\enesc\\onedrive\\belgeler\\github\\csharpprojelerim\\stelleracunmedyaakedemiportfolio\\stelleracunmedyaakedemiportfolio\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{42552B06-9DD4-4F3C-8F42-9F124D33091B}|StellerAcunMedyaAkedemiPortfolio\\StellerAcunMedyaAkedemiPortfolio.csproj|c:\\users\\enesc\\onedrive\\belgeler\\github\\csharpprojelerim\\stelleracunmedyaakedemiportfolio\\stelleracunmedyaakedemiportfolio\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42552B06-9DD4-4F3C-8F42-9F124D33091B}|StellerAcunMedyaAkedemiPortfolio\\StellerAcunMedyaAkedemiPortfolio.csproj|solutionrelative:stelleracunmedyaakedemiportfolio\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42552B06-9DD4-4F3C-8F42-9F124D33091B}|StellerAcunMedyaAkedemiPortfolio\\StellerAcunMedyaAkedemiPortfolio.csproj|C:\\Users\\enesc\\OneDrive\\Belgeler\\GitHub\\CSharpProjelerim\\StellerAcunMedyaAkedemiPortfolio\\stelleracunmedyaakedemiportfolio\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{42552B06-9DD4-4F3C-8F42-9F124D33091B}|StellerAcunMedyaAkedemiPortfolio\\StellerAcunMedyaAkedemiPortfolio.csproj|solutionrelative:stelleracunmedyaakedemiportfolio\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42552B06-9DD4-4F3C-8F42-9F124D33091B}|StellerAcunMedyaAkedemiPortfolio\\StellerAcunMedyaAkedemiPortfolio.csproj|c:\\users\\enesc\\onedrive\\belgeler\\github\\csharpprojelerim\\stelleracunmedyaakedemiportfolio\\stelleracunmedyaakedemiportfolio\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42552B06-9DD4-4F3C-8F42-9F124D33091B}|StellerAcunMedyaAkedemiPortfolio\\StellerAcunMedyaAkedemiPortfolio.csproj|solutionrelative:stelleracunmedyaakedemiportfolio\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{42552B06-9DD4-4F3C-8F42-9F124D33091B}|StellerAcunMedyaAkedemiPortfolio\\StellerAcunMedyaAkedemiPortfolio.csproj|C:\\Users\\enesc\\OneDrive\\Belgeler\\GitHub\\CSharpProjelerim\\StellerAcunMedyaAkedemiPortfolio\\stelleracunmedyaakedemiportfolio\\models\\tblproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42552B06-9DD4-4F3C-8F42-9F124D33091B}|StellerAcunMedyaAkedemiPortfolio\\StellerAcunMedyaAkedemiPortfolio.csproj|solutionrelative:stelleracunmedyaakedemiportfolio\\models\\tblproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42552B06-9DD4-4F3C-8F42-9F124D33091B}|StellerAcunMedyaAkedemiPortfolio\\StellerAcunMedyaAkedemiPortfolio.csproj|c:\\users\\enesc\\onedrive\\belgeler\\github\\csharpprojelerim\\stelleracunmedyaakedemiportfolio\\stelleracunmedyaakedemiportfolio\\views\\about\\updateabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{42552B06-9DD4-4F3C-8F42-9F124D33091B}|StellerAcunMedyaAkedemiPortfolio\\StellerAcunMedyaAkedemiPortfolio.csproj|solutionrelative:stelleracunmedyaakedemiportfolio\\views\\about\\updateabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{42552B06-9DD4-4F3C-8F42-9F124D33091B}|StellerAcunMedyaAkedemiPortfolio\\StellerAcunMedyaAkedemiPortfolio.csproj|C:\\Users\\enesc\\OneDrive\\Belgeler\\GitHub\\CSharpProjelerim\\StellerAcunMedyaAkedemiPortfolio\\stelleracunmedyaakedemiportfolio\\views\\project\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42552B06-9DD4-4F3C-8F42-9F124D33091B}|StellerAcunMedyaAkedemiPortfolio\\StellerAcunMedyaAkedemiPortfolio.csproj|solutionrelative:stelleracunmedyaakedemiportfolio\\views\\project\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42552B06-9DD4-4F3C-8F42-9F124D33091B}|StellerAcunMedyaAkedemiPortfolio\\StellerAcunMedyaAkedemiPortfolio.csproj|c:\\users\\enesc\\onedrive\\belgeler\\github\\csharpprojelerim\\stelleracunmedyaakedemiportfolio\\stelleracunmedyaakedemiportfolio\\views\\about\\addabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{42552B06-9DD4-4F3C-8F42-9F124D33091B}|StellerAcunMedyaAkedemiPortfolio\\StellerAcunMedyaAkedemiPortfolio.csproj|solutionrelative:stelleracunmedyaakedemiportfolio\\views\\about\\addabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42552B06-9DD4-4F3C-8F42-9F124D33091B}|StellerAcunMedyaAkedemiPortfolio\\StellerAcunMedyaAkedemiPortfolio.csproj|c:\\users\\enesc\\onedrive\\belgeler\\github\\csharpprojelerim\\stelleracunmedyaakedemiportfolio\\stelleracunmedyaakedemiportfolio\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{42552B06-9DD4-4F3C-8F42-9F124D33091B}|StellerAcunMedyaAkedemiPortfolio\\StellerAcunMedyaAkedemiPortfolio.csproj|C:\\Users\\enesc\\OneDrive\\Belgeler\\GitHub\\CSharpProjelerim\\StellerAcunMedyaAkedemiPortfolio\\stelleracunmedyaakedemiportfolio\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{42552B06-9DD4-4F3C-8F42-9F124D33091B}|StellerAcunMedyaAkedemiPortfolio\\StellerAcunMedyaAkedemiPortfolio.csproj|solutionrelative:stelleracunmedyaakedemiportfolio\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42552B06-9DD4-4F3C-8F42-9F124D33091B}|StellerAcunMedyaAkedemiPortfolio\\StellerAcunMedyaAkedemiPortfolio.csproj|C:\\Users\\enesc\\OneDrive\\Belgeler\\GitHub\\CSharpProjelerim\\StellerAcunMedyaAkedemiPortfolio\\stelleracunmedyaakedemiportfolio\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42552B06-9DD4-4F3C-8F42-9F124D33091B}|StellerAcunMedyaAkedemiPortfolio\\StellerAcunMedyaAkedemiPortfolio.csproj|solutionrelative:stelleracunmedyaakedemiportfolio\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,54 +39,63 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "UpdateAbout.cshtml",
-              "DocumentMoniker": "C:\\Users\\enesc\\OneDrive\\Belgeler\\GitHub\\CSharpProjelerim\\StellerAcunMedyaAkedemiPortfolio\\StellerAcunMedyaAkedemiPortfolio\\Views\\About\\UpdateAbout.cshtml",
-              "RelativeDocumentMoniker": "StellerAcunMedyaAkedemiPortfolio\\Views\\About\\UpdateAbout.cshtml",
-              "ToolTip": "C:\\Users\\enesc\\OneDrive\\Belgeler\\GitHub\\CSharpProjelerim\\StellerAcunMedyaAkedemiPortfolio\\StellerAcunMedyaAkedemiPortfolio\\Views\\About\\UpdateAbout.cshtml",
-              "RelativeToolTip": "StellerAcunMedyaAkedemiPortfolio\\Views\\About\\UpdateAbout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-11T19:21:50.617Z",
-              "EditorCaption": ""
+              "Title": "TblProject.cs",
+              "DocumentMoniker": "C:\\Users\\enesc\\OneDrive\\Belgeler\\GitHub\\CSharpProjelerim\\StellerAcunMedyaAkedemiPortfolio\\StellerAcunMedyaAkedemiPortfolio\\Models\\TblProject.cs",
+              "RelativeDocumentMoniker": "StellerAcunMedyaAkedemiPortfolio\\Models\\TblProject.cs",
+              "ToolTip": "C:\\Users\\enesc\\OneDrive\\Belgeler\\GitHub\\CSharpProjelerim\\StellerAcunMedyaAkedemiPortfolio\\StellerAcunMedyaAkedemiPortfolio\\Models\\TblProject.cs",
+              "RelativeToolTip": "StellerAcunMedyaAkedemiPortfolio\\Models\\TblProject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T22:20:05.408Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "AddAbout.cshtml",
-              "DocumentMoniker": "C:\\Users\\enesc\\OneDrive\\Belgeler\\GitHub\\CSharpProjelerim\\StellerAcunMedyaAkedemiPortfolio\\StellerAcunMedyaAkedemiPortfolio\\Views\\About\\AddAbout.cshtml",
-              "RelativeDocumentMoniker": "StellerAcunMedyaAkedemiPortfolio\\Views\\About\\AddAbout.cshtml",
-              "ToolTip": "C:\\Users\\enesc\\OneDrive\\Belgeler\\GitHub\\CSharpProjelerim\\StellerAcunMedyaAkedemiPortfolio\\StellerAcunMedyaAkedemiPortfolio\\Views\\About\\AddAbout.cshtml",
-              "RelativeToolTip": "StellerAcunMedyaAkedemiPortfolio\\Views\\About\\AddAbout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\enesc\\OneDrive\\Belgeler\\GitHub\\CSharpProjelerim\\StellerAcunMedyaAkedemiPortfolio\\StellerAcunMedyaAkedemiPortfolio\\Views\\Project\\Index.cshtml",
+              "RelativeDocumentMoniker": "StellerAcunMedyaAkedemiPortfolio\\Views\\Project\\Index.cshtml",
+              "ToolTip": "C:\\Users\\enesc\\OneDrive\\Belgeler\\GitHub\\CSharpProjelerim\\StellerAcunMedyaAkedemiPortfolio\\StellerAcunMedyaAkedemiPortfolio\\Views\\Project\\Index.cshtml",
+              "RelativeToolTip": "StellerAcunMedyaAkedemiPortfolio\\Views\\Project\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-11T18:49:59.586Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-12T22:15:23.078Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\enesc\\OneDrive\\Belgeler\\GitHub\\CSharpProjelerim\\StellerAcunMedyaAkedemiPortfolio\\StellerAcunMedyaAkedemiPortfolio\\Views\\About\\Index.cshtml",
-              "RelativeDocumentMoniker": "StellerAcunMedyaAkedemiPortfolio\\Views\\About\\Index.cshtml",
-              "ToolTip": "C:\\Users\\enesc\\OneDrive\\Belgeler\\GitHub\\CSharpProjelerim\\StellerAcunMedyaAkedemiPortfolio\\StellerAcunMedyaAkedemiPortfolio\\Views\\About\\Index.cshtml",
-              "RelativeToolTip": "StellerAcunMedyaAkedemiPortfolio\\Views\\About\\Index.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-11T17:54:26.603Z",
+              "Title": "ProjectController.cs",
+              "DocumentMoniker": "C:\\Users\\enesc\\OneDrive\\Belgeler\\GitHub\\CSharpProjelerim\\StellerAcunMedyaAkedemiPortfolio\\StellerAcunMedyaAkedemiPortfolio\\Controllers\\ProjectController.cs",
+              "RelativeDocumentMoniker": "StellerAcunMedyaAkedemiPortfolio\\Controllers\\ProjectController.cs",
+              "ToolTip": "C:\\Users\\enesc\\OneDrive\\Belgeler\\GitHub\\CSharpProjelerim\\StellerAcunMedyaAkedemiPortfolio\\StellerAcunMedyaAkedemiPortfolio\\Controllers\\ProjectController.cs",
+              "RelativeToolTip": "StellerAcunMedyaAkedemiPortfolio\\Controllers\\ProjectController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T22:11:41.069Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "AboutController.cs",
               "DocumentMoniker": "C:\\Users\\enesc\\OneDrive\\Belgeler\\GitHub\\CSharpProjelerim\\StellerAcunMedyaAkedemiPortfolio\\StellerAcunMedyaAkedemiPortfolio\\Controllers\\AboutController.cs",
               "RelativeDocumentMoniker": "StellerAcunMedyaAkedemiPortfolio\\Controllers\\AboutController.cs",
               "ToolTip": "C:\\Users\\enesc\\OneDrive\\Belgeler\\GitHub\\CSharpProjelerim\\StellerAcunMedyaAkedemiPortfolio\\StellerAcunMedyaAkedemiPortfolio\\Controllers\\AboutController.cs",
               "RelativeToolTip": "StellerAcunMedyaAkedemiPortfolio\\Controllers\\AboutController.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAYwD4AAAAtAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-11T17:52:32.551Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-11T17:52:32.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\enesc\\OneDrive\\Belgeler\\GitHub\\CSharpProjelerim\\StellerAcunMedyaAkedemiPortfolio\\StellerAcunMedyaAkedemiPortfolio\\Views\\About\\Index.cshtml",
+              "RelativeDocumentMoniker": "StellerAcunMedyaAkedemiPortfolio\\Views\\About\\Index.cshtml",
+              "ToolTip": "C:\\Users\\enesc\\OneDrive\\Belgeler\\GitHub\\CSharpProjelerim\\StellerAcunMedyaAkedemiPortfolio\\StellerAcunMedyaAkedemiPortfolio\\Views\\About\\Index.cshtml",
+              "RelativeToolTip": "StellerAcunMedyaAkedemiPortfolio\\Views\\About\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-11T17:54:26.603Z"
             },
             {
               "$type": "Document",
@@ -92,10 +105,9 @@
               "RelativeDocumentMoniker": "StellerAcunMedyaAkedemiPortfolio\\Views\\Shared\\_AdminLayout.cshtml",
               "ToolTip": "C:\\Users\\enesc\\OneDrive\\Belgeler\\GitHub\\CSharpProjelerim\\StellerAcunMedyaAkedemiPortfolio\\StellerAcunMedyaAkedemiPortfolio\\Views\\Shared\\_AdminLayout.cshtml",
               "RelativeToolTip": "StellerAcunMedyaAkedemiPortfolio\\Views\\Shared\\_AdminLayout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAGAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-10T12:43:33.058Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-10T12:43:33.058Z"
             }
           ]
         }
