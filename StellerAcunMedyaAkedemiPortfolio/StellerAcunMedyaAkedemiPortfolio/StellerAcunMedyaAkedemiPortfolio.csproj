@@ -368,7 +368,10 @@
     <Content Include="Views\About\AddAbout.cshtml" />
     <Content Include="Views\About\UpdateAbout.cshtml" />
     <Content Include="Views\Project\Index.cshtml" />
+<<<<<<< HEAD
     <Content Include="Views\Project\AddProject.cshtml" />
+=======
+>>>>>>> 2081163c5380347a73ffae64e3b9d4ffb1af7473
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
