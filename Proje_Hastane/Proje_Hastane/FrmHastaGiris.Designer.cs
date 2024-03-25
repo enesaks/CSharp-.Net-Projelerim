@@ -105,7 +105,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(14F, 29F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(510, 270);
+            this.ClientSize = new System.Drawing.Size(485, 267);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.mskTc);
             this.Controls.Add(this.txtSifre);

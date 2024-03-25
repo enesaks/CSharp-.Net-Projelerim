@@ -19,7 +19,6 @@ namespace StellerAcunMedyaAkedemiPortfolio.Controllers
               
             return View(projectList);
         }
-<<<<<<< HEAD
 
         public ActionResult DeleteProject(int id)
         {
@@ -47,8 +46,5 @@ namespace StellerAcunMedyaAkedemiPortfolio.Controllers
 
 
 
-
-=======
->>>>>>> 2081163c5380347a73ffae64e3b9d4ffb1af7473
     }
 }

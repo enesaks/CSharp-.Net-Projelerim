@@ -3,12 +3,13 @@
     "",
     "\\StellerAcunMedyaAkedemiPortfolio",
     "\\StellerAcunMedyaAkedemiPortfolio\\Controllers",
+    "\\StellerAcunMedyaAkedemiPortfolio\\Models",
     "\\StellerAcunMedyaAkedemiPortfolio\\Views",
     "\\StellerAcunMedyaAkedemiPortfolio\\Views\\About",
     "\\StellerAcunMedyaAkedemiPortfolio\\Views\\Project",
     "\\StellerAcunMedyaAkedemiPortfolio\\Views\\Shared",
     "\\StellerAcunMedyaAkedemiPortfolio\\Views\\Testimonial"
   ],
-  "SelectedNode": "\\StellerAcunMedyaAkedemiPortfolio\\Views\\Project\\Index.cshtml",
+  "SelectedNode": "\\StellerAcunMedyaAkedemiPortfolio\\Views\\About\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }

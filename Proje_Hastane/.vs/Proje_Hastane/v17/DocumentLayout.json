@@ -3,24 +3,8 @@
   "WorkspaceRootPath": "C:\\GitHub\\CSharpProjelerim\\Proje_Hastane\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2957C706-D46B-4B13-BBA7-3AA3DF4258C1}|Proje_Hastane\\Proje_Hastane.csproj|c:\\github\\csharpprojelerim\\proje_hastane\\proje_hastane\\frmhastadetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2957C706-D46B-4B13-BBA7-3AA3DF4258C1}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmhastadetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2957C706-D46B-4B13-BBA7-3AA3DF4258C1}|Proje_Hastane\\Proje_Hastane.csproj|c:\\github\\csharpprojelerim\\proje_hastane\\proje_hastane\\frmgirisler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2957C706-D46B-4B13-BBA7-3AA3DF4258C1}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmgirisler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2957C706-D46B-4B13-BBA7-3AA3DF4258C1}|Proje_Hastane\\Proje_Hastane.csproj|c:\\github\\csharpprojelerim\\proje_hastane\\proje_hastane\\frmhastagiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2957C706-D46B-4B13-BBA7-3AA3DF4258C1}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmhastagiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2957C706-D46B-4B13-BBA7-3AA3DF4258C1}|Proje_Hastane\\Proje_Hastane.csproj|c:\\github\\csharpprojelerim\\proje_hastane\\proje_hastane\\frmhastagiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2957C706-D46B-4B13-BBA7-3AA3DF4258C1}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmhastagiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2957C706-D46B-4B13-BBA7-3AA3DF4258C1}|Proje_Hastane\\Proje_Hastane.csproj|c:\\github\\csharpprojelerim\\proje_hastane\\proje_hastane\\frmhastakayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2957C706-D46B-4B13-BBA7-3AA3DF4258C1}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmhastakayit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{2957C706-D46B-4B13-BBA7-3AA3DF4258C1}|Proje_Hastane\\Proje_Hastane.csproj|c:\\github\\csharpprojelerim\\proje_hastane\\proje_hastane\\frmdoktordetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2957C706-D46B-4B13-BBA7-3AA3DF4258C1}|Proje_Hastane\\Proje_Hastane.csproj|solutionrelative:proje_hastane\\frmdoktordetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,62 +19,13 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FrmHastaDetay.cs [Design]",
-              "DocumentMoniker": "C:\\GitHub\\CSharpProjelerim\\Proje_Hastane\\Proje_Hastane\\FrmHastaDetay.cs",
-              "RelativeDocumentMoniker": "Proje_Hastane\\FrmHastaDetay.cs",
-              "ToolTip": "C:\\GitHub\\CSharpProjelerim\\Proje_Hastane\\Proje_Hastane\\FrmHastaDetay.cs [Design]",
-              "RelativeToolTip": "Proje_Hastane\\FrmHastaDetay.cs [Design]",
+              "Title": "FrmDoktorDetay.cs [Design]",
+              "DocumentMoniker": "C:\\GitHub\\CSharpProjelerim\\Proje_Hastane\\Proje_Hastane\\FrmDoktorDetay.cs",
+              "RelativeDocumentMoniker": "Proje_Hastane\\FrmDoktorDetay.cs",
+              "ToolTip": "C:\\GitHub\\CSharpProjelerim\\Proje_Hastane\\Proje_Hastane\\FrmDoktorDetay.cs [Design]",
+              "RelativeToolTip": "Proje_Hastane\\FrmDoktorDetay.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T14:51:29.045Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FrmHastaKayit.cs [Design]",
-              "DocumentMoniker": "C:\\GitHub\\CSharpProjelerim\\Proje_Hastane\\Proje_Hastane\\FrmHastaKayit.cs",
-              "RelativeDocumentMoniker": "Proje_Hastane\\FrmHastaKayit.cs",
-              "ToolTip": "C:\\GitHub\\CSharpProjelerim\\Proje_Hastane\\Proje_Hastane\\FrmHastaKayit.cs [Design]",
-              "RelativeToolTip": "Proje_Hastane\\FrmHastaKayit.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T14:38:57.252Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FrmHastaGiris.cs",
-              "DocumentMoniker": "C:\\GitHub\\CSharpProjelerim\\Proje_Hastane\\Proje_Hastane\\FrmHastaGiris.cs",
-              "RelativeDocumentMoniker": "Proje_Hastane\\FrmHastaGiris.cs",
-              "ToolTip": "C:\\GitHub\\CSharpProjelerim\\Proje_Hastane\\Proje_Hastane\\FrmHastaGiris.cs",
-              "RelativeToolTip": "Proje_Hastane\\FrmHastaGiris.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAhwBMAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T14:31:55.331Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FrmHastaGiris.cs [Design]",
-              "DocumentMoniker": "C:\\GitHub\\CSharpProjelerim\\Proje_Hastane\\Proje_Hastane\\FrmHastaGiris.cs",
-              "RelativeDocumentMoniker": "Proje_Hastane\\FrmHastaGiris.cs",
-              "ToolTip": "C:\\GitHub\\CSharpProjelerim\\Proje_Hastane\\Proje_Hastane\\FrmHastaGiris.cs [Design]",
-              "RelativeToolTip": "Proje_Hastane\\FrmHastaGiris.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T14:30:33.263Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FrmGirisler.cs [Design]",
-              "DocumentMoniker": "C:\\GitHub\\CSharpProjelerim\\Proje_Hastane\\Proje_Hastane\\FrmGirisler.cs",
-              "RelativeDocumentMoniker": "Proje_Hastane\\FrmGirisler.cs",
-              "ToolTip": "C:\\GitHub\\CSharpProjelerim\\Proje_Hastane\\Proje_Hastane\\FrmGirisler.cs [Design]",
-              "RelativeToolTip": "Proje_Hastane\\FrmGirisler.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T14:25:25.312Z",
+              "WhenOpened": "2024-03-24T23:09:00.608Z",
               "EditorCaption": " [Design]"
             }
           ]
