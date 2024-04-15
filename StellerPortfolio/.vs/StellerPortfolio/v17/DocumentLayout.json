@@ -1,26 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\enesc\\OneDrive\\Belgeler\\GitHub\\CSharpProjelerim\\StellerPortfolio\\",
+  "WorkspaceRootPath": "C:\\GitHub\\CSharpProjelerim\\StellerPortfolio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E11B4921-A8F1-4FD6-8CB5-96659567B819}|StellerPortfolio\\StellerPortfolio.csproj|c:\\users\\enesc\\onedrive\\belgeler\\github\\csharpprojelerim\\stellerportfolio\\stellerportfolio\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E11B4921-A8F1-4FD6-8CB5-96659567B819}|StellerPortfolio\\StellerPortfolio.csproj|solutionrelative:stellerportfolio\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E11B4921-A8F1-4FD6-8CB5-96659567B819}|StellerPortfolio\\StellerPortfolio.csproj|c:\\users\\enesc\\onedrive\\belgeler\\github\\csharpprojelerim\\stellerportfolio\\stellerportfolio\\controllers\\featurecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E11B4921-A8F1-4FD6-8CB5-96659567B819}|StellerPortfolio\\StellerPortfolio.csproj|solutionrelative:stellerportfolio\\controllers\\featurecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E11B4921-A8F1-4FD6-8CB5-96659567B819}|StellerPortfolio\\StellerPortfolio.csproj|c:\\users\\enesc\\onedrive\\belgeler\\github\\csharpprojelerim\\stellerportfolio\\stellerportfolio\\views\\feature\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E11B4921-A8F1-4FD6-8CB5-96659567B819}|StellerPortfolio\\StellerPortfolio.csproj|solutionrelative:stellerportfolio\\views\\feature\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E11B4921-A8F1-4FD6-8CB5-96659567B819}|StellerPortfolio\\StellerPortfolio.csproj|c:\\users\\enesc\\onedrive\\belgeler\\github\\csharpprojelerim\\stellerportfolio\\stellerportfolio\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E11B4921-A8F1-4FD6-8CB5-96659567B819}|StellerPortfolio\\StellerPortfolio.csproj|solutionrelative:stellerportfolio\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E11B4921-A8F1-4FD6-8CB5-96659567B819}|StellerPortfolio\\StellerPortfolio.csproj|c:\\users\\enesc\\onedrive\\belgeler\\github\\csharpprojelerim\\stellerportfolio\\stellerportfolio\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E11B4921-A8F1-4FD6-8CB5-96659567B819}|StellerPortfolio\\StellerPortfolio.csproj|solutionrelative:stellerportfolio\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C04AE76D-2FB3-4BC5-87BA-4D83ED0D2EA8}|StellerPortfolio\\StellerPortfolio.csproj|c:\\github\\csharpprojelerim\\stellerportfolio\\stellerportfolio\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C04AE76D-2FB3-4BC5-87BA-4D83ED0D2EA8}|StellerPortfolio\\StellerPortfolio.csproj|solutionrelative:stellerportfolio\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\enesc\\OneDrive\\Belgeler\\GitHub\\CSharpProjelerim\\StellerPortfolio\\StellerPortfolio\\Views\\Feature\\Index.cshtml",
-              "RelativeDocumentMoniker": "StellerPortfolio\\Views\\Feature\\Index.cshtml",
-              "ToolTip": "C:\\Users\\enesc\\OneDrive\\Belgeler\\GitHub\\CSharpProjelerim\\StellerPortfolio\\StellerPortfolio\\Views\\Feature\\Index.cshtml",
-              "RelativeToolTip": "StellerPortfolio\\Views\\Feature\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-09T13:42:28.621Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\enesc\\OneDrive\\Belgeler\\GitHub\\CSharpProjelerim\\StellerPortfolio\\StellerPortfolio\\Views\\About\\Index.cshtml",
-              "RelativeDocumentMoniker": "StellerPortfolio\\Views\\About\\Index.cshtml",
-              "ToolTip": "C:\\Users\\enesc\\OneDrive\\Belgeler\\GitHub\\CSharpProjelerim\\StellerPortfolio\\StellerPortfolio\\Views\\About\\Index.cshtml",
-              "RelativeToolTip": "StellerPortfolio\\Views\\About\\Index.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAA0AAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-09T11:47:09.1Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AboutController.cs",
-              "DocumentMoniker": "C:\\Users\\enesc\\OneDrive\\Belgeler\\GitHub\\CSharpProjelerim\\StellerPortfolio\\StellerPortfolio\\Controllers\\AboutController.cs",
-              "RelativeDocumentMoniker": "StellerPortfolio\\Controllers\\AboutController.cs",
-              "ToolTip": "C:\\Users\\enesc\\OneDrive\\Belgeler\\GitHub\\CSharpProjelerim\\StellerPortfolio\\StellerPortfolio\\Controllers\\AboutController.cs",
-              "RelativeToolTip": "StellerPortfolio\\Controllers\\AboutController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T11:46:40.503Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FeatureController.cs",
-              "DocumentMoniker": "C:\\Users\\enesc\\OneDrive\\Belgeler\\GitHub\\CSharpProjelerim\\StellerPortfolio\\StellerPortfolio\\Controllers\\FeatureController.cs",
-              "RelativeDocumentMoniker": "StellerPortfolio\\Controllers\\FeatureController.cs",
-              "ToolTip": "C:\\Users\\enesc\\OneDrive\\Belgeler\\GitHub\\CSharpProjelerim\\StellerPortfolio\\StellerPortfolio\\Controllers\\FeatureController.cs",
-              "RelativeToolTip": "StellerPortfolio\\Controllers\\FeatureController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T13:41:20.274Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_AdminLayout.cshtml",
-              "DocumentMoniker": "C:\\Users\\enesc\\OneDrive\\Belgeler\\GitHub\\CSharpProjelerim\\StellerPortfolio\\StellerPortfolio\\Views\\Shared\\_AdminLayout.cshtml",
-              "RelativeDocumentMoniker": "StellerPortfolio\\Views\\Shared\\_AdminLayout.cshtml",
-              "ToolTip": "C:\\Users\\enesc\\OneDrive\\Belgeler\\GitHub\\CSharpProjelerim\\StellerPortfolio\\StellerPortfolio\\Views\\Shared\\_AdminLayout.cshtml",
-              "RelativeToolTip": "StellerPortfolio\\Views\\Shared\\_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\GitHub\\CSharpProjelerim\\StellerPortfolio\\StellerPortfolio\\Views\\Default\\Index.cshtml",
+              "RelativeDocumentMoniker": "StellerPortfolio\\Views\\Default\\Index.cshtml",
+              "ToolTip": "C:\\GitHub\\CSharpProjelerim\\StellerPortfolio\\StellerPortfolio\\Views\\Default\\Index.cshtml",
+              "RelativeToolTip": "StellerPortfolio\\Views\\Default\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-09T11:39:11.938Z",
+              "WhenOpened": "2024-04-15T21:57:26.954Z",
               "EditorCaption": ""
             }
           ]

@@ -1,15 +1,6 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\StellerAcunMedyaAkedemiPortfolio",
-    "\\StellerAcunMedyaAkedemiPortfolio\\Controllers",
-    "\\StellerAcunMedyaAkedemiPortfolio\\Models",
-    "\\StellerAcunMedyaAkedemiPortfolio\\Views",
-    "\\StellerAcunMedyaAkedemiPortfolio\\Views\\About",
-    "\\StellerAcunMedyaAkedemiPortfolio\\Views\\Project",
-    "\\StellerAcunMedyaAkedemiPortfolio\\Views\\Shared",
-    "\\StellerAcunMedyaAkedemiPortfolio\\Views\\Testimonial"
+    "\\StellerAcunMedyaAkedemiPortfolio"
   ],
-  "SelectedNode": "\\StellerAcunMedyaAkedemiPortfolio\\Views\\About\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }
