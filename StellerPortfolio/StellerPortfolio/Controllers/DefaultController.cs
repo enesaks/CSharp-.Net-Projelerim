@@ -40,6 +40,7 @@ namespace StellerPortfolio.Controllers
         [HttpPost]
         public ActionResult SendMessage(TblMessage message)
         {
+            message.isRead = false;
             db.TblMessage.Add(message);
             db.SaveChanges();
             return RedirectToAction("Index");
@@ -73,6 +74,11 @@ namespace StellerPortfolio.Controllers
             return PartialView(values);
         }
         public PartialViewResult UILayoutFooterPartial()
+        {
+            var values = db.TblSocialMedia.ToList();
+            return PartialView(values);
+        }
+        public PartialViewResult DefaultSocialMediaPartial()
         {
             var values = db.TblSocialMedia.ToList();
             return PartialView(values);

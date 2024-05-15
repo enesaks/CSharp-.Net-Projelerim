@@ -4,7 +4,7 @@
   <edmx:Runtime>
     <!-- SSDL content -->
     <edmx:StorageModels>
-      <Schema Namespace="StellerAcunMedyaDbModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+    <Schema Namespace="StellerAcunMedyaDbModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
         <EntityType Name="TblAbout">
           <Key>
             <PropertyRef Name="AboutId" />
@@ -54,6 +54,7 @@ warning 6002: The table/view 'StellerAcunMedyaDb.dbo.TblAdmin' does not have a p
           <Property Name="Email" Type="nvarchar" MaxLength="100" />
           <Property Name="NameSurname" Type="nvarchar" MaxLength="50" />
           <Property Name="MessageContent" Type="nvarchar" MaxLength="400" />
+          <Property Name="isRead" Type="bit" />
         </EntityType>
         <EntityType Name="TblProject">
           <Key>
@@ -140,8 +141,7 @@ warning 6002: The table/view 'StellerAcunMedyaDb.dbo.TblSkill' does not have a p
     FROM [dbo].[TblSkill] AS [TblSkill]</DefiningQuery>
           </EntitySet>
         </EntityContainer>
-      </Schema>
-    </edmx:StorageModels>
+      </Schema></edmx:StorageModels>
     <!-- CSDL content -->
     <edmx:ConceptualModels>
       <Schema Namespace="StellerAcunMedyaDbModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
@@ -184,6 +184,7 @@ warning 6002: The table/view 'StellerAcunMedyaDb.dbo.TblSkill' does not have a p
           <Property Name="Email" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
           <Property Name="NameSurname" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
           <Property Name="MessageContent" Type="String" MaxLength="400" FixedLength="false" Unicode="true" />
+          <Property Name="isRead" Type="Boolean" />
         </EntityType>
         <EntityType Name="TblProject">
           <Key>
@@ -296,6 +297,7 @@ warning 6002: The table/view 'StellerAcunMedyaDb.dbo.TblSkill' does not have a p
           <EntitySetMapping Name="TblMessage">
             <EntityTypeMapping TypeName="StellerAcunMedyaDbModel.TblMessage">
               <MappingFragment StoreEntitySet="TblMessage">
+                <ScalarProperty Name="isRead" ColumnName="isRead" />
                 <ScalarProperty Name="MessageId" ColumnName="MessageId" />
                 <ScalarProperty Name="Email" ColumnName="Email" />
                 <ScalarProperty Name="NameSurname" ColumnName="NameSurname" />

@@ -129,6 +129,9 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Areas\Admin\AdminAreaRegistration.cs" />
     <Compile Include="Areas\Admin\Controllers\TicketController.cs" />
+    <Compile Include="Areas\Member\Controllers\MyTicketController.cs" />
+    <Compile Include="Areas\Member\MemberAreaRegistration.cs" />
+    <Compile Include="Controllers\AdminLayoutController.cs" />
     <Compile Include="Controllers\DefaultController.cs" />
     <Compile Include="Controllers\FestavaArtistController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
@@ -136,6 +139,7 @@
     <Compile Include="Entities\Context.cs" />
     <Compile Include="Entities\Feature.cs" />
     <Compile Include="Entities\Ticket.cs" />
+    <Compile Include="Entities\User.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -180,6 +184,8 @@
     <Content Include="Areas\Admin\Views\Ticket\TicketList.cshtml" />
     <Content Include="Areas\Admin\Views\Ticket\CreateTicket.cshtml" />
     <Content Include="Areas\Admin\Views\Ticket\UpdateTicket.cshtml" />
+    <Content Include="Areas\Member\Views\web.config" />
+    <Content Include="Areas\Member\Views\MyTicket\CreateGuid.cshtml" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.4.1.js" />
     <Content Include="Scripts\jquery-3.4.1.min.js" />
@@ -238,13 +244,17 @@
     <Content Include="Views\Default\PartialFooter.cshtml" />
     <Content Include="Views\FestavaArtist\ArtistList.cshtml" />
     <Content Include="Views\Shared\UILayout.cshtml" />
+    <Content Include="Views\AdminLayout\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Areas\Admin\Data\" />
     <Folder Include="Areas\Admin\Models\" />
     <Folder Include="Areas\Admin\Views\Shared\" />
+    <Folder Include="Areas\Member\Data\" />
+    <Folder Include="Areas\Member\Views\Shared\" />
     <Folder Include="Models\" />
+    <Folder Include="Views\Admin\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\bootstrap.rtl.min.css.map" />
